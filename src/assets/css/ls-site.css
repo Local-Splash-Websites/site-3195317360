@@ -23,6 +23,9 @@
 .lsw-reviews .lsw-dots { display: flex; justify-content: center; gap: 8px; margin-top: 12px; }
 .lsw-reviews .lsw-dot { width: 10px; height: 10px; border-radius: 50%; border: 0; padding: 0; background: rgba(0, 0, 0, .25); cursor: pointer; }
 .lsw-reviews .lsw-dot[aria-current="true"] { background: rgba(0, 0, 0, .7); }
+/* Stars: Duda's `.star-rating i` rules set colour and size where its widget CSS is present; these are the fallback. */
+.lsw-reviews .star-rating .lsw-star { display: inline-flex; color: #F6BB06; font-size: 16px; margin-right: 2px; }
+.lsw-reviews .lsw-star svg { display: block; }
 .lsw-reviews-footer { margin-top: 12px; text-align: center; }
 .lsw-review-button { margin-left: 8px; }
 .lsw-map { min-height: 300px; }

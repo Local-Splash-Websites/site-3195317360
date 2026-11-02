@@ -77,8 +77,15 @@
       timer = null;
       if (autoplay && !reduced) timer = setInterval(function () { if (!paused && !document.hidden) go(current() + 1); }, speed);
     }
-    ['mouseenter', 'focusin', 'touchstart'].forEach(function (e) { viewport.addEventListener(e, function () { paused = true; }, { passive: true }); });
-    ['mouseleave', 'focusout', 'touchend'].forEach(function (e) { viewport.addEventListener(e, function () { paused = false; }, { passive: true }); });
+    // Autoplay pauses while the pointer is over the carousel or a keyboard user is in it. A mouse click on an arrow also
+    // focuses it, so focus pauses only when it is keyboard focus; otherwise autoplay would stop for good after a click.
+    function keyboardFocus(e) { try { return e.target.matches(':focus-visible'); } catch (err) { return false; } }
+    viewport.addEventListener('mouseenter', function () { paused = true; });
+    viewport.addEventListener('mouseleave', function () { paused = false; });
+    viewport.addEventListener('focusin', function (e) { if (keyboardFocus(e)) paused = true; });
+    viewport.addEventListener('focusout', function () { paused = false; });
+    viewport.addEventListener('touchstart', function () { paused = true; }, { passive: true });
+    viewport.addEventListener('touchend', function () { paused = false; }, { passive: true });
     var t = null;
     track.addEventListener('scroll', function () { clearTimeout(t); t = setTimeout(renderDots, 80); }, { passive: true });
     window.addEventListener('resize', renderDots);
