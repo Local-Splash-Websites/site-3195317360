@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "site": {
+    "id": "1e10ecc1",
+    "profileId": 1412063
+  },
+  "business": {
+    "name": "Bennett's Moving Company",
+    "telephone": "+13192498014",
+    "url": "https://www.bennettmoving.net/",
+    "address": {
+      "streetAddress": "103 Village Drive Unit 12",
+      "addressLocality": "Tiffin",
+      "addressRegion": "IA",
+      "postalCode": "52340",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "latitude": 41.697,
+      "longitude": -91.6646
+    },
+    "openingHoursSpecification": [
+      {
+        "dayOfWeek": [
+          "Monday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Tuesday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Wednesday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Thursday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ],
+    "logo": "/assets/img/77cde5a4-5df0-48e8-8327-078e41945acc-8b1-51eb84c1.webp",
+    "sameAs": [
+      "https://www.yelp.com/biz/bennetts-moving-company-hiawatha"
+    ]
+  },
+  "custom": {
+    "googlePlaceId": "ChIJ60K_KTNpxoUR_CM9IduLa2Y",
+    "serviceRadiusMiles": 25
+  }
+}

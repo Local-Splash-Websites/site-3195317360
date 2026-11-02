@@ -1,0 +1,1515 @@
+{
+  "schema_version": 2,
+  "profile_id": 1412063,
+  "site_name": "1e10ecc1",
+  "generated_at_utc": "2026-11-02T17:06:31.6544852",
+  "source_server": "RASQL01",
+  "source_database": "RelevantYellow",
+  "export_kind": "sql_source_reconstruction",
+  "content_library_updates_paused": true,
+  "maps_api_key_redacted": true,
+  "complete": true,
+  "content_library": {
+    "location_data": {
+      "phones": [
+        {
+          "phoneNumber": "(319) 249-8014",
+          "label": "Phone Number"
+        }
+      ],
+      "emails": [
+        {
+          "emailAddress": "",
+          "label": "Email"
+        }
+      ],
+      "label": "Moving Services Tiffin IA",
+      "social_accounts": {
+        "youtube": "",
+        "facebook": "",
+        "yelp": "bennetts-moving-company-hiawatha",
+        "instagram": "",
+        "snapchat": "",
+        "twitter": ""
+      },
+      "address": {
+        "streetAddress": "103 Village Drive Unit 12",
+        "postalCode": "52340",
+        "region": "IA",
+        "city": "Tiffin",
+        "country": "US"
+      },
+      "geo": {
+        "longitude": "-91.6646",
+        "latitude": "41.697"
+      },
+      "logo_url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/77cde5a4-5df0-48e8-8327-078e41945acc-8b16c797.png",
+      "business_hours": [
+        {
+          "days": [
+            "MON"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "TUE"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "WED"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "THU"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "FRI"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "SAT"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "days": [
+            "SUN"
+          ],
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "site_texts": {
+      "overview": "Bennett's Moving Company provides professional moving services to commercial and residential customers in Tiffin, IA and the surrounding area. With years of experience, we are equipped with state of the art tools and expertise to accomplish any project, no matter how big or small. Licensed Moving Company with Commercial Insurance Coverage”",
+      "services": "Bennett's Moving Company in Tiffin, IA  provides professional moving services to commercial and residential customers. Call (319) 249-8014 to find out more about our available services:<br> <br> * Moving Service<br> * Hauling Services<br> * Appliance Moving Services<br> * Appliance Delivery<br> * Local Moving<br> * Interstate Moving<br> * Storage Services<br> * House Cleanout<br> * Furniture Delivery<br> * Cargo Transportation<br> * Packing  Services<br> * Unpacking Services<br> * Storage Moving Services<br> * Apartment Cleanout<br> * Garage Cleanout<br> * Storage Cleanout<br> * Office Cleanout<br> * Concrete Removal<br> * Appliance Removal<br> * Demolition Services<br> * Residential Moving Service<br> * Commercial Moving Services",
+      "custom": [
+        {
+          "label": "City",
+          "text": "Tiffin"
+        },
+        {
+          "label": "State",
+          "text": "Iowa"
+        },
+        {
+          "label": "Mission",
+          "text": ""
+        },
+        {
+          "label": "Established Date",
+          "text": "2018"
+        },
+        {
+          "label": "Tag Line",
+          "text": ""
+        },
+        {
+          "label": "License Number",
+          "text": ""
+        },
+        {
+          "label": "Payment Methods",
+          "text": "Cash, Cash App, Zelle"
+        },
+        {
+          "label": "DomainName",
+          "text": "bennettmoving.net"
+        },
+        {
+          "label": "ReviewURL",
+          "text": ""
+        },
+        {
+          "label": "Service Area",
+          "text": "Benton County, Bremer County, Buchanan County, Cedar County, Dallas County, Delaware County, Grundy County, Hiawatha, Iowa County, Johnson County, Jones County, Linn County, Madison County, Marion, Mills County, Plymouth County, Sioux County, Warren County, West Branch"
+        },
+        {
+          "label": "CityState",
+          "text": "Tiffin, Iowa"
+        },
+        {
+          "label": "googleMapsApiKey",
+          "text": "[REDACTED]"
+        },
+        {
+          "label": "radius",
+          "text": "25"
+        },
+        {
+          "label": "apType",
+          "text": "0"
+        },
+        {
+          "label": "googlePlaceID",
+          "text": "ChIJ60K_KTNpxoUR_CM9IduLa2Y"
+        },
+        {
+          "label": "ResponsiveAddressStorefrontHybrid",
+          "text": ""
+        },
+        {
+          "label": "ResponsiveAddressHidden",
+          "text": ""
+        },
+        {
+          "label": "PSP",
+          "text": "Moving Services"
+        }
+      ],
+      "about_us": "Bennett's Moving Company provides professional moving services to commercial and residential customers in Tiffin, IA and the surrounding area. With years of experience, we are equipped with state of the art tools and expertise to accomplish any project, no matter how big or small. Licensed Moving Company with Commercial Insurance Coverage”<br> <br> We will be happy to share our knowledge and expertise with customers to give them an informed choice when selecting services and vendors. Our friendly technicians cater to our customers' needs with superior service. We offer free estimates, competitive and affordable pricing. <br> <br> Call Bennett's Moving Company in Tiffin IA now to discuss your moving services needs with our experts, to request a free estimate, to schedule an appointment, and to find out more about all of our available services!"
+    },
+    "business_data": {
+      "name": "Bennett's Moving Company",
+      "logo_url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/77cde5a4-5df0-48e8-8327-078e41945acc-8b16c797.png"
+    },
+    "site_images": [
+      {
+        "label": "Image1",
+        "url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/8014b226-dc58-4852-a638-6f590bfbc420-a51dda9a.jpg",
+        "alt": ""
+      },
+      {
+        "label": "Image2",
+        "url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/c40e64ae-4193-48e9-a757-89c29341609a-713cc4ae.jpg",
+        "alt": ""
+      },
+      {
+        "label": "Image3",
+        "url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/d1200dc8-4431-4ae8-b31f-8f975887340d-afd78c70.jpg",
+        "alt": ""
+      },
+      {
+        "label": "Image4",
+        "url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/217fa385-ea85-446b-8757-530dfe2d67f2.jpg",
+        "alt": ""
+      },
+      {
+        "label": "Image5",
+        "url": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/5a0fdbf1-ab72-409d-b54e-3c6b82948d4d-396dba69.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "featured_services": {
+    "duda_collection": "Featured Services - Final",
+    "selection_source": "dbo.plc_tbl_DudaWebsite.Services via dbo.plc_vw_DUDAWebsite",
+    "template_id": 1016540,
+    "selected_services_raw": "moving-services,residential-moving,commercial-moving,hauling-services,in-state-move,local-move,long-distance-move,out-of-state-move,packing-and-unpacking-services,appliance-moving-services,garage-and-home-clean-out,office-cleanout",
+    "selection_status": "selected",
+    "desired_pages": [
+      {
+        "position": 1,
+        "path": "moving-services"
+      },
+      {
+        "position": 2,
+        "path": "residential-moving"
+      },
+      {
+        "position": 3,
+        "path": "commercial-moving"
+      },
+      {
+        "position": 4,
+        "path": "hauling-services"
+      },
+      {
+        "position": 5,
+        "path": "in-state-move"
+      },
+      {
+        "position": 6,
+        "path": "local-move"
+      },
+      {
+        "position": 7,
+        "path": "long-distance-move"
+      },
+      {
+        "position": 8,
+        "path": "out-of-state-move"
+      },
+      {
+        "position": 9,
+        "path": "packing-and-unpacking-services"
+      },
+      {
+        "position": 10,
+        "path": "appliance-moving-services"
+      },
+      {
+        "position": 11,
+        "path": "garage-and-home-clean-out"
+      },
+      {
+        "position": 12,
+        "path": "office-cleanout"
+      }
+    ],
+    "final_collection_readback_included": false,
+    "scope": "Selected paths only; final Duda collection names, images and generated blurbs are not read back."
+  },
+  "collections": [
+    {
+      "name": "Gallery",
+      "source_view": "dbo.dud_xvw_Gallery",
+      "fields": [
+        {
+          "name": "image",
+          "type": "image",
+          "source_column": "image_image"
+        },
+        {
+          "name": "title",
+          "type": "text",
+          "source_column": "title_text"
+        },
+        {
+          "name": "description",
+          "type": "text",
+          "source_column": "description_text"
+        },
+        {
+          "name": "link",
+          "type": "link",
+          "source_column": "link_link"
+        },
+        {
+          "name": "alt-text",
+          "type": "text",
+          "source_column": "alt-text_text"
+        },
+        {
+          "name": "link-text",
+          "type": "text",
+          "source_column": "link-text_text"
+        },
+        {
+          "name": "sOrder",
+          "type": "text",
+          "source_column": "sOrder_text"
+        }
+      ],
+      "rows": [
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/8014b226-dc58-4852-a638-6f590bfbc420-a51dda9a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "1"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/c40e64ae-4193-48e9-a757-89c29341609a-713cc4ae.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "2"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/d1200dc8-4431-4ae8-b31f-8f975887340d-afd78c70.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "3"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/217fa385-ea85-446b-8757-530dfe2d67f2.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "4"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/5a0fdbf1-ab72-409d-b54e-3c6b82948d4d-396dba69.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "5"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2a4b2cca-1079-4afa-98af-e39800ff7d3a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "7"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/6546e8fc-afa8-40df-8537-76394b5a9c69.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "8"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/f1f8be35-be45-4a0f-80c3-58aa3b2a3fd3.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "9"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/9a916b62/dms3rep/multi/74301965-b12b-4b85-a391-60777054193c.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "10"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/f11a05fb-6403-44b0-a5a4-0fdd20e220a0.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "11"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/5e039821-8eed-48c9-ab76-b527c686b76a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "12"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/9b0fce1f-4019-4a10-8389-8b02fe802e22.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "13"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/a2818502-8ea0-4865-88de-25f2b63e1f7f.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "14"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/4f8b934b-5674-4413-8f78-ea6b53f51217.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "15"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/d9721d87-e3a4-45e4-81f2-5d98d9b9053f.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "16"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/6e14cd9c-1b27-4f6c-96e4-1df9da91c51c.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "17"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/cffa501f-a442-4caf-baba-3580c98f695a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "18"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/f8fa8ee1-4830-43b3-8e51-bce87606da38.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "19"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/8cf399be-7a17-4980-a9b6-2ac22c245a3e.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "20"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/86640a76-bb13-4540-bebe-9d802b704000.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "21"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/69f4dd0b-30a8-4355-9902-cfab9c24be3f.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "22"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/7a577a15-2175-4a97-b924-a12eeaaa3a65.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "23"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/ef0a4801-858d-4a79-b7df-af75b4a09d7a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "24"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/69730953-5a23-4efd-bb50-95945fe854f7.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "25"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2b7b0464-4461-4d4f-be8e-a6cf6ce0b53d.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "26"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/ef11a144-6f3c-4d86-a00a-b8005b1c442e.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "27"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/967cf2bf-df0f-42f7-b6ab-7fca9a06575a.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "28"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/d7eed597-7e9e-41f6-9e30-490cd817a2a1.png",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "29"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/cd8f5b15-9524-41b0-ae80-93891cea1700.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "30"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/a227b009-ccf6-4d1b-b472-2bc2f1587590.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "31"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/ecfa820b-acee-4755-9167-09413573f132.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "32"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/105fac12-fe4f-4eb6-b02d-9619562238be.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "33"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/89fa5393-3ea0-418c-a8ec-f561dad7fa4c.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "34"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/0e617c0a-cc0f-4a7d-bc2a-1f5d8d2c5286.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "35"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/9b3262d0-d9b6-4662-9b59-e51b75c54f52.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "36"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/78043d1f-538c-4bff-90fe-b54070d67ad2.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "37"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/b186f58b-380f-4e53-af4d-b2da027f93b4.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "38"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/946eb749-a744-4129-816a-4bd41c4621dd.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "39"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/eeebd908-206f-4039-85d2-aa174e8edeb4.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "40"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/13387edf-1d3f-410d-9685-db8a5f532b44.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "41"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/911ba687-909d-4a4f-bd54-db690b0a34a5.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "42"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/60018878-16a1-46d9-81fa-48647608d9df.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "43"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/5f100e09-86e3-46d0-8ae3-08f1fa27087e.jpg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "44"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/38d2296f-ff8d-42ea-8c6c-e1cdeb8a34e5.jpeg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "45"
+          }
+        },
+        {
+          "data": {
+            "image": "https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/305d15dd-4588-4937-9041-2315e1e41f81.jpeg",
+            "title": "",
+            "description": "",
+            "link": null,
+            "alt-text": null,
+            "link-text": null,
+            "sOrder": "46"
+          }
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "name": "GooglePosts",
+      "source_view": "dbo.dud_xvw_GooglePosts",
+      "fields": [
+        {
+          "name": "name",
+          "type": "plain_text",
+          "source_column": "name_plain_text"
+        },
+        {
+          "name": "summary",
+          "type": "plain_text",
+          "source_column": "summary_plain_text"
+        },
+        {
+          "name": "callToAction.actionType",
+          "type": "plain_text",
+          "source_column": "callToAction.actionType_plain_text"
+        },
+        {
+          "name": "callToAction.url",
+          "type": "plain_text",
+          "source_column": "callToAction.url_plain_text"
+        },
+        {
+          "name": "createTime",
+          "type": "plain_text",
+          "source_column": "createTime_plain_text"
+        },
+        {
+          "name": "mediaFormat",
+          "type": "plain_text",
+          "source_column": "mediaFormat_plain_text"
+        },
+        {
+          "name": "googleUrl",
+          "type": "plain_text",
+          "source_column": "googleUrl_plain_text"
+        },
+        {
+          "name": "searchUrl",
+          "type": "plain_text",
+          "source_column": "searchUrl_plain_text"
+        },
+        {
+          "name": "topicType",
+          "type": "plain_text",
+          "source_column": "topicType_plain_text"
+        },
+        {
+          "name": "dtUpdated",
+          "type": "plain_text",
+          "source_column": "dtUpdated_plain_text"
+        }
+      ],
+      "rows": [
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/1284680751140184012",
+            "summary": "Call Bennetts moving company now for our new winter deals 120 per hour, if you provide the U-Haul or a truck of your choosing for two movers(5 hr minimum)\n200 per hour if we provide our truck for 2 movers (5 hr minimum). We also have deals for bigger and longer sized  moving projects, 240 per hour gets you 4men (10 hour minimum) call us at 319-677-4232. Ask for Chase.",
+            "callToAction.actionType": null,
+            "callToAction.url": null,
+            "createTime": "2024-12-24T08:10:17",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipMEojTTEOJhrI2Y6riAd4s6K9y6PxAZwkxbo9tA",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Dec 24 2024  8:10AM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/4694492741143678750",
+            "summary": "Overwhelmed by the idea of moving? Let Bennett's Moving Company take the stress out of your big day! From heavy antique furniture to all your precious books, we handle your belongings with care across Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn County, and West Branch. Reliable, respectful, and ready to make your move as smooth as can be! ???? #MovingMadeEasy #BennettsMoving #StressFreeRelocation #LocalMovers #IowaMovingPros",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-08-21T15:02:48",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipN-c-9DN_j3XHUsFDOXY96omkxObaUGl23_CUiz",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Aug 21 2024  3:02PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/3380018121275906104",
+            "summary": "Overwhelmed by the thought of moving? ?? Let Bennett's Moving Company turn your chaos into comfort! Our experienced team is ready to tackle moves in Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn Counties, and West Branch, IA. Whether it’s a cluttered room or a whole house, we’ve got you covered. Schedule your stress-free move today! ?? #MovingDay #BennettsMoving #StressFreeRelocation #IowaMovers #ClutterToComfort",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-08-14T15:02:41",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipN7g5vZQEMZSiEGYlBq6R08RGG_B6TDMOOyB_g_",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Aug 14 2024  3:02PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/8376334279772619545",
+            "summary": "Moving made easy with Bennett's Moving Company! ???? Whether you're in Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn County, or West Branch, we have you covered! Our skilled team ensures your belongings, from precious pianos to personal keepsakes, are transported safely and efficiently. ???? Need a reliable mover? Look no further! Contact us today for a hassle-free move! #MovingDay #BennettsMovingCompany #IowaMovers #SafeAndSound",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-08-07T15:08:58",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOGQ9_3S2SPoprxlX2HPC0kZuk22hzLwn7taARK",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Aug  7 2024  3:08PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/1012436739083672099",
+            "summary": "Feeling overwhelmed by the sight of an overpacked garage? 📦🚚 Don't let moving stress you out! At Bennett's Moving Company, we're seasoned pros at turning chaos into organized moves. Serving Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn Counties, and West Branch, IA. Let us handle the heavy lifting! #MovingDay #OrganizedRelocation #BennettsMovingCompany #StressFreeMoving",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-31T15:02:37",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipMqFJfpZXSzILomRDyG5lyoE6K6e2n2fIOeO2D1",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jul 31 2024  3:02PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/7373833023884388797",
+            "summary": "Moving can be a heap of stress, but it doesn't have to be! From bulky furniture to mountains of books, Bennett's Moving Company is here to take the weight off your shoulders! 📚📦 Serving Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn counties, & West Branch. 📍 Your belongings are precious, and we treat them with the care they deserve. Ready to make your move easy? Drop us a message today! #MoveWithBennetts #StressFreeMoving #LocalMovers #IowaMovingCompany",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-24T15:08:12",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNapP5_I-W2sQu1r9MmTezm97UWM-E_LAQjHc0R",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jul 24 2024  3:08PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/6577198646520379113",
+            "summary": "No move is too big or too small for Bennett's Moving Company! Whether you're relocating across Benton County, Buchanan County, Cedar County, Delaware County, Hiawatha, Iowa County, Johnson County, Jones County, Linn County, or West Branch, we've got you covered. From delicate keepsakes to heavy concrete blocks, we handle your items with the utmost care. ????Need a reliable moving service? Look no further. Contact us for a stress-free move! #MovingDay #BennettsMoving #LocalMovers #IowaRelocation #MovingServices",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-17T15:02:52",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipO6wYKpxm9i9IJiyRZ6Xo95bqAk9yl788lEjNSS",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jul 17 2024  3:02PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/424603448149071871",
+            "summary": "Moving made easy with Bennett's Moving Company! ?? Need a reliable team to help you relocate in Benton, Buchanan, Cedar, Delaware, Iowa, Johnson, Jones, Linn County, Hiawatha, or West Branch, IA? We've got you covered!We handle all the heavy lifting so you don't have to. No job is too big or too tricky for our skilled crew.Get in touch with us today for a stress-free move! #BennettsMoving #IowaMovers #Relocation #MovingServices #StressFreeMove",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-10T15:02:27",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipP9_fsYZoFsLcWhEi5_0FKlAtIp_cotJjjjEb87",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jul 10 2024  3:02PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/858446676799321601",
+            "summary": "Time for a fresh start? Let Bennett's Moving Company help you make that seamless transition to your new home! Our professional team handles your belongings with care, ensuring they arrive safely at your destination. Proudly serving Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn counties, and West Branch, IA. Let's get moving! 📦✨ #BennettsMoving #StressFreeMove #LocalMovers #IowaMovingCompany",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-03T15:02:03",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipMIitSR7gRAidNgHTY7kZqFzs5uy9pT2mQ3Xcba",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Sep 10 2024  6:53PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/2191075732505149933",
+            "summary": "Moving day made easy with Bennett's Moving Company! ?? Whether you're relocating in Benton, Buchanan, Cedar, Delaware, Iowa, Johnson, Jones County, or in the neighborhoods of Hiawatha, Linn County and West Branch, IA - we've got you covered! Our professional team ensures your belongings are handled with care. Trust us to make your move smooth and stress-free. Ready to get moving? Contact us today! #BennettsMoving #MovingServices #IowaMovers #StressFreeMove #LocalMovers",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-07-02T00:48:03",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPFYRkPR75p-_yhah1tuUYnXgob32FQMTWrYyRy",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jul  2 2024 12:48AM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/7653847557888004164",
+            "summary": "Moving day on the horizon? Don't let that packing anxiety get to you! Bennett's Moving Company is here for your every step from Benton to Buchanan, Cedar to Delaware, and all the way through Linn County, IA and beyond. Say goodbye to cluttered rooms and hello to a smooth move with our professional team. Hiawatha, West Branch, or anywhere in Iowa County, Johnson County, and Jones County - we have you covered! ????#MovingDay #StressFreeMove #ProfessionalMovers #BennettsMovingCompany #IowaMovers #RelocationServices #MovingServices #LocalMovers #HappyMoving",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-06-19T15:01:48",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPJJaO55Lfp7ytQiJniz71B0dtKMqdR_RCsTW9V",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jun 19 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/3153849432294463351",
+            "summary": "Ready to Move? Let Bennett's Moving Company ease your transition! We're experts at handling all types of items – from bulky furniture to delicate appliances, ensuring they arrive safely at your new home. Serving Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, Linn Counties, and West Branch, IA. Your belongings are in good hands with us! Call us today for a stress-free move! #MovingDay #BennettsMoving #SafeAndSound #IowaMovers ????",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-06-12T15:01:24",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPQQwRUok3lNxFk7LDiRzwwkM0WHrAwN66qpF1T",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jun 12 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/2150324847500150634",
+            "summary": "Moving out? Slide into your new beginning with Bennett's Moving Company! ?? Whether you're in Benton, Buchanan, Cedar, Delaware, Hiawatha, Iowa, Johnson, Jones, or Linn County, or headed to West Branch, we've got you covered. Make your move smooth and hassle-free. Contact us today — let's get you settled in your new place with ease! #MovingDay #BennettsMoving #NewBeginnings #LocalMovers #IowaRelocation",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-06-05T15:01:18",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipMlPwLfWTSLtbpVuY8Bth8UWnbmiznseyBTFJTQ",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jun  5 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/8819547884220581560",
+            "summary": "Moving can be a hassle, but we've got your back! At Bennett's Moving Company, we handle your treasures with care. ?? Whether it's a hefty armoire or a delicate cabinet, your belongings are secure with us. Let's make your move smooth and worry-free! #MovingDay #StressFreeMoving #BennettsMovingCo",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-05-29T15:01:09",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOqLyKAiKHo8S6EfAdEIF1XB9PkS4rXyZsyBAFV",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "May 29 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/753275888127413520",
+            "summary": "Need a trusted team to move your delicate furniture? At Bennett's Moving Company, we ensure your pieces are handled with care and precision. Don't stress over the details - let us take the weight off your shoulders. #MovingDay #StressFreeMove #BennettsMovingCompany ??????",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-05-22T15:01:27",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPN3pnSVpzma3lUEq0_vqvHfE6qOwx01JkWqSnK",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "May 22 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/2813536760980574286",
+            "summary": "Moving to a new symphony? ?? Whether it's an uptown apartment or a cozy house in the suburbs, Bennett's Moving Company ensures your precious piano hits the right note in its new home. Trust us for a smooth, careful, and efficient move. Let us make your transition as harmonious as your music! #MovingDay #PianoTransport #BennettsMoving #SafeAndSound",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-05-15T15:01:37",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNlRpYbKAgtVu3LgZjYLP0-_dRQKHvI3pJaryXO",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "May 15 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/5781860159666058062",
+            "summary": "Ready to move but dread the thought of packing and heavy lifting? Let Bennett's Moving Company take the load off your shoulders! Our experienced team ensures a smooth transition to your new home, no matter the weather. Contact us today to schedule your hassle-free move! #MovingDay #BennettsMoving #StressFreeMoving ????",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-05-08T15:01:33",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPM-ye_w3U2B9dqdFdMZqXaAI2yelVsDTCsIEsx",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "May  8 2024  3:01PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/2419255628657401947",
+            "summary": "Moving day chaos? ???? Don't stress! Bennett's Moving Company specializes in making your move as smooth as possible. From carefully wrapping art to meticulously securing every item, we ensure that everything arrives at your new place safe and sound. Let us take the load off your shoulders – because your peace of mind is our top priority. ?? #StressFreeMove #BennettsMoving #RelocationExperts",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-05-01T15:00:50",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipN7I2TfM6N_BJyBzujl0KZORZdVQtMlGsR3Sqie",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "May  1 2024  3:00PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/5315176004146002009",
+            "summary": "Planning a move or need hauling services in Johnson County, Iowa City, Cedar County, or Linn County? Bennett's Moving Company has you covered! From local to interstate moves, appliance delivery, and storage solutions, we provide efficient, reliable services. Our expert team handles everything from packing to cleanouts and demolition. Experience a seamless move with Bennett's Moving Company! ",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-02-09T19:55:12",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNm_ozm-YFcRj-wTTE_RZVS_jGhVgaCxOJU-vr_",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Feb 14 2024  3:30PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/117910905488129801074/locations/3057601812743356342/localPosts/5315176004146002009",
+            "summary": "Planning a move or need hauling services in Johnson County, Iowa City, Cedar County, or Linn County? Bennett's Moving Company has you covered! From local to interstate moves, appliance delivery, and storage solutions, we provide efficient, reliable services. Our expert team handles everything from packing to cleanouts and demolition. Experience a seamless move with Bennett's Moving Company! ",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-02-09T19:55:12",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNm_ozm-YFcRj-wTTE_RZVS_jGhVgaCxOJU-vr_",
+            "searchUrl": "https://local.google.com/place?id=7380146187648443388&use=posts&lpsid=CIHM0ogKEICAgICdkLrQRQ",
+            "topicType": "STANDARD",
+            "dtUpdated": "Feb 14 2024  3:30PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/2238868211998461843",
+            "summary": "Our team of experienced movers can handle all your moving needs, whether you're moving across the street or across the country. We also offer storage services to help with any temporary or long-term storage needs you may have. And if you're in need of a cleanout service, we've got you covered there too. We make sure to leave your space clean and clutter-free.\r\n\r\nTrust Bennett's Moving Company to handle all your moving and storage needs with care and professionalism. Contact us today for a free quote and let us make your moving experience a breeze! #MovingServices #StorageServices #CleanoutServices #BennettsMovingCompany",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "http://bennettmoving.net/",
+            "createTime": "2024-01-24T06:36:22",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNzfl730N2Hwh2BFfynx7ghGrKrtfmsi1ZdC1f5",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan 24 2024  6:36AM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/117910905488129801074/locations/3057601812743356342/localPosts/9133713681331546950",
+            "summary": "Make your move stress-free with Bennett's Moving Company in Hiawatha, IA! From local and interstate moves to hauling, storage, and cleanouts, we've got your relocation needs covered. Whether it's furniture delivery, concrete removal, or office cleanouts, trust our expert team for efficient and reliable services. Your seamless move begins with Bennett's! ",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-01-17T21:13:05",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOWWdSXNCNLdVlqiTz5wL0wtlbCqrBxzVJWdD73",
+            "searchUrl": "https://local.google.com/place?id=7380146187648443388&use=posts&lpsid=CIHM0ogKEICAgICNi7uYMw",
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan 17 2024  9:13PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/9133713681331546950",
+            "summary": "Make your move stress-free with Bennett's Moving Company in Hiawatha, IA! From local and interstate moves to hauling, storage, and cleanouts, we've got your relocation needs covered. Whether it's furniture delivery, concrete removal, or office cleanouts, trust our expert team for efficient and reliable services. Your seamless move begins with Bennett's! ",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-01-17T21:13:05",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOWWdSXNCNLdVlqiTz5wL0wtlbCqrBxzVJWdD73",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan 17 2024  9:13PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/117910905488129801074/locations/3057601812743356342/localPosts/6998871104587214235",
+            "summary": "Reliable moves start with Bennett's Moving Company in Hiawatha, IA! We offer comprehensive moving services, from local to interstate moves, along with efficient hauling, appliance delivery, and furniture services. Our team specializes in storage solutions, house cleanouts, and cargo transportation. Whether it's packing, unpacking, or cleanouts for apartments, garages, or offices, count on us for a smooth and stress-free experience. Contact us for expert moving and demolition services that make transitions effortless.",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-01-12T18:20:12",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNh7ukQabsQfyYI2RQviUy8RUIriOQEp1NW5JiM",
+            "searchUrl": "https://local.google.com/place?id=7380146187648443388&use=posts&lpsid=CIHM0ogKEICAgICN7PrZuAE",
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan 12 2024  6:20PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/6998871104587214235",
+            "summary": "Reliable moves start with Bennett's Moving Company in Hiawatha, IA! We offer comprehensive moving services, from local to interstate moves, along with efficient hauling, appliance delivery, and furniture services. Our team specializes in storage solutions, house cleanouts, and cargo transportation. Whether it's packing, unpacking, or cleanouts for apartments, garages, or offices, count on us for a smooth and stress-free experience. Contact us for expert moving and demolition services that make transitions effortless.",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://www.bennettmoving.net/",
+            "createTime": "2024-01-12T18:20:12",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipNh7ukQabsQfyYI2RQviUy8RUIriOQEp1NW5JiM",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan 12 2024  6:20PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/117910905488129801074/locations/3057601812743356342/localPosts/7411900302084929415",
+            "summary": "Looking for an affordable moving company in the area? Bennett's Moving Company offers great rates for local moves! We also offer office cleanout services to make your move easier. Call us today for a free quote!",
+            "callToAction.actionType": "CALL",
+            "callToAction.url": null,
+            "createTime": "2024-01-05T17:29:20",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOfsXJr-p1jNan_STkz0OCtChaQo9VqTcCbELW2",
+            "searchUrl": "https://local.google.com/place?id=7380146187648443388&use=posts&lpsid=CIHM0ogKEICAgID1jMO57gE",
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan  5 2024  5:29PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/7411900302084929415",
+            "summary": "Looking for an affordable moving company in the area? Bennett's Moving Company offers great rates for local moves! We also offer office cleanout services to make your move easier. Call us today for a free quote!",
+            "callToAction.actionType": "CALL",
+            "callToAction.url": null,
+            "createTime": "2024-01-05T17:29:20",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipOfsXJr-p1jNan_STkz0OCtChaQo9VqTcCbELW2",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Jan  5 2024  5:29PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/117910905488129801074/locations/3057601812743356342/localPosts/6484216800512267420",
+            "summary": "Call Bennett's Moving Company in Hiawatha, IA now to discuss your moving services needs with our experts, to request a free estimate, to schedule an appointment, and to find out more about all of our available services!",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://bennettmoving.net/",
+            "createTime": "2022-10-12T17:15:14",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPygQWoKJ0GNZiZQo96ml8FMnfD-b8ys0BsMM3G",
+            "searchUrl": "https://local.google.com/place?id=7380146187648443388&use=posts&lpsid=CIHM0ogKEICAgIDe0YbC_gE",
+            "topicType": "STANDARD",
+            "dtUpdated": "Oct 12 2022  5:15PM"
+          }
+        },
+        {
+          "data": {
+            "name": "accounts/110679299083455349818/locations/3057601812743356342/localPosts/6484216800512267420",
+            "summary": "Call Bennett's Moving Company in Hiawatha, IA now to discuss your moving services needs with our experts, to request a free estimate, to schedule an appointment, and to find out more about all of our available services!",
+            "callToAction.actionType": "LEARN_MORE",
+            "callToAction.url": "https://bennettmoving.net/",
+            "createTime": "2022-10-12T17:15:14",
+            "mediaFormat": "PHOTO",
+            "googleUrl": "https://lh3.googleusercontent.com/p/AF1QipPygQWoKJ0GNZiZQo96ml8FMnfD-b8ys0BsMM3G",
+            "searchUrl": null,
+            "topicType": "STANDARD",
+            "dtUpdated": "Oct 12 2022  5:15PM"
+          }
+        }
+      ],
+      "row_count": 29
+    },
+    {
+      "name": "GoogleReviews",
+      "source_view": "dbo.dud_xvw_GoogleReviews",
+      "fields": [
+        {
+          "name": "ReviewerName",
+          "type": "plain_text",
+          "source_column": "ReviewerName_plain_text"
+        },
+        {
+          "name": "ReviewText",
+          "type": "plain_text",
+          "source_column": "ReviewText_plain_text"
+        },
+        {
+          "name": "dtReview",
+          "type": "plain_text",
+          "source_column": "dtReview_plain_text"
+        },
+        {
+          "name": "Rating",
+          "type": "plain_text",
+          "source_column": "Rating_plain_text"
+        },
+        {
+          "name": "ItemURL",
+          "type": "plain_text",
+          "source_column": "ItemURL_plain_text"
+        }
+      ],
+      "rows": [
+        {
+          "data": {
+            "ReviewerName": "Lori Jantzen",
+            "ReviewText": "I called this morning to get a quote and had my garage cleared out by 1 this afternoon. Justin was very friendly and did a fantastic job. I highly recommend him.",
+            "dtReview": "2024-03-02 23:33:23",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Buckeye Man",
+            "ReviewText": "I had a small, but very difficult furniture moving job in my house. I normally do things myself, but this was far beyond my ability. Bennett's was quick to respond, they communicated clearly, and their pricing was fair. Their arrival was prompt, and they made quick work of my moving job. I recommend them to my friends, and would definitely hire them again.",
+            "dtReview": "2024-02-24 21:00:05",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Markese Petersen",
+            "ReviewText": "On time, polite, professional, very careful. Did a great job very pleased, Thanks!",
+            "dtReview": "2023-09-20 18:51:39",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "WaltsWoodWorks3D",
+            "ReviewText": "Showed up with 3 guys ready to work, Unloaded two 26' Uhauls and a 6x12 trailer in less than 4 hours. Haul a couple tons of stuff up stairs.",
+            "dtReview": "2023-08-14 18:30:50",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Eliza G",
+            "ReviewText": "So helpful I couldn't ask for more!",
+            "dtReview": "2023-08-09 00:34:21",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Srijaa Kadiyala",
+            "ReviewText": "They were on time and did a wonderful job! Very professional and respectful.",
+            "dtReview": "2023-08-03 04:15:56",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Ryan Laudick",
+            "ReviewText": "Hardworking and dependable, I would easily hire them again. On one of the hottest days of the year these guys spent eight hours moving everything out of my house and my fiancee's house to our new place. They were very professional and treated all our stuff delicately. These guys earned every single one of these five stars.",
+            "dtReview": "2023-08-02 22:08:01",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "J R",
+            "ReviewText": "This team was fast, professional, and efficient. They were able to accomplish moving me into my apartment with three narrow doors and two half steps. My neighbor commented that every other moving company was unable to get a 3 seat couch in my apartment complex. They did it with such ease. They were in and out in 20 minutes.\n\nYou can rely on Chase and his team to get the job done. I certainly will use them in the future.",
+            "dtReview": "2023-07-31 01:43:12",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Jenna Marie",
+            "ReviewText": null,
+            "dtReview": "2023-07-27 03:44:21",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Jamarty",
+            "ReviewText": "Very professional & productive would recommend to anyone!",
+            "dtReview": "2023-07-27 00:24:24",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Damien Owens",
+            "ReviewText": null,
+            "dtReview": "2023-07-26 23:56:23",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Justin Hatcher",
+            "ReviewText": null,
+            "dtReview": "2023-07-26 23:49:29",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Kaleb thompson",
+            "ReviewText": null,
+            "dtReview": "2023-07-26 23:42:28",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Tye Barnes",
+            "ReviewText": null,
+            "dtReview": "2023-07-26 23:42:26",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "JoAnne Fobian",
+            "ReviewText": "I had a particularly challenging move and Bennett Moving was amazing in handling all the obstacles.  Professional, timely and hardworking.  Would definitely recommend!  Will use again in our future moves!!  Cindy & JoAnne",
+            "dtReview": "2023-07-25 17:14:31",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Julie Thompson",
+            "ReviewText": "Highly recommend this moving service! Very professional, did an absolute great job, very prompt and on time, went of their way to accommodate our time frame! Quick and efficient! Hire Bennett for all your moving needs!!",
+            "dtReview": "2023-07-25 01:01:14",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Cheryl Stark",
+            "ReviewText": "Great service, helped move out of an apartment into a house. Listen to them when they quote frame, they were correct.",
+            "dtReview": "2023-07-23 22:55:28",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "matt rattan",
+            "ReviewText": "Group was professional and took good care of items while moving",
+            "dtReview": "2023-07-15 17:54:31",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Mikkayla Leigh Ann",
+            "ReviewText": "Super reliable, good communication, kind, respectful, efficient. They’re also reasonably priced - definitely recommend these guys!",
+            "dtReview": "2023-07-15 04:21:51",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        },
+        {
+          "data": {
+            "ReviewerName": "Brenda Davis",
+            "ReviewText": "Very professional employees, handled all my furnished with care. Very nice prices service.",
+            "dtReview": "2023-06-17 16:04:00",
+            "Rating": "5",
+            "ItemURL": "https://maps.google.com/maps?cid=7380146187648443388"
+          }
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "name": "LocalSplashSettings",
+      "source_view": "dbo.dud_xvw_LocalSplashSettings",
+      "fields": [
+        {
+          "name": "SettingField",
+          "type": "plain_text",
+          "source_column": "SettingField_plain_text"
+        },
+        {
+          "name": "SettingValue",
+          "type": "plain_text",
+          "source_column": "SettingValue_plain_text"
+        }
+      ],
+      "rows": [
+        {
+          "data": {
+            "SettingField": "NLU",
+            "SettingValue": "0"
+          }
+        }
+      ],
+      "row_count": 1
+    }
+  ],
+  "warnings": []
+}
