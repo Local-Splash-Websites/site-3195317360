@@ -11,6 +11,10 @@ RUN python build/render.py --src src --data data/site.json --out public
 
 # Stage 2: static Apache. POST /v1/lead is proxied to the shared lead service at $LEADS_SERVICE_URL.
 FROM httpd:2.4
+# Coolify runs the healthcheck inside the container with curl or wget; the httpd image ships neither.
+RUN apt-get update \
+ && apt-get install -y --no-install-recommends ca-certificates curl \
+ && rm -rf /var/lib/apt/lists/*
 RUN sed -i \
       -e 's/^#\(LoadModule rewrite_module\)/\1/' \
       -e 's/^#\(LoadModule proxy_module\)/\1/' \
@@ -23,3 +27,4 @@ RUN sed -i \
 COPY apache/site.conf conf/extra/site.conf
 COPY --from=render /site/public/ htdocs/
 EXPOSE 80
+HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 CMD curl --fail --silent http://127.0.0.1/ -o /dev/null || exit 1
