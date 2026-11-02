@@ -1,0 +1,58 @@
+# Verification
+
+- **PASS** Pages render: 18 pages, 405 other files
+- **FAIL** No Duda CDN hosts: 310 references
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/IMG_2778-1920w.jpeg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/8014b226-dc58-4852-a638-6f590bfbc420-08d81063.jpg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/8014b226-dc58-4852-a638-6f590bfbc420-08d81063-1000h.jpg?jxl&amp;v
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/217fa385-ea85-446b-8757-530dfe2d67f2-d160bfd2.jpg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/217fa385-ea85-446b-8757-530dfe2d67f2-d160bfd2-1000h.jpg?jxl&amp;v
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/hauling1.jpeg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/hauling1-1000h.jpeg?jxl&amp;v=jxl
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/Bennett-s+Moving+Company1.jpg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/Bennett-s+Moving+Company1-1000h.jpg?jxl&amp;v=jxl
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/Bennett-s+Moving+Company29.jpg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/Bennett-s+Moving+Company29-1000h.jpg?jxl&amp;v=jxl
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/pexels-photo-4247766.jpeg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/pexels-photo-4247766-1000h.jpeg?jxl&amp;v=jxl
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/Bennett-s+Moving+Company48.jpg
+  - index.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/Bennett-s+Moving+Company48-1000h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-08-09+%287%29.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-02-09-bcd672c0.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-02-09-bcd672c0-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-03-11-2ee15f70.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-03-11-2ee15f70-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-08-11-6498c2f5.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-08-11-6498c2f5-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-08-09-6927cd27.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-08-09-6927cd27-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06-79a0a535.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06-79a0a535-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%281%29-4851a009.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%281%29-4851a009-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%282%29-53f5dc47.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%282%29-53f5dc47-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%285%29-9acf0628.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%285%29-9acf0628-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%283%29-b51d4514.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%283%29-b51d4514-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-03-11+%281%29-fbbbd475.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-03-11+%281%29-fbbbd475-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%284%29-c87ddc72.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%284%29-c87ddc72-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%286%29-628aebff.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%286%29-628aebff-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%287%29-de1a62c8.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%287%29-de1a62c8-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%288%29-d5976cef.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%288%29-d5976cef-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-03-11+%282%29-32d7495e.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-03-11+%282%29-32d7495e-1200h.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-01-06+%289%29-492deaf3.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-01-06+%289%29-492deaf3-1000w.jpg?jxl&amp;v=jxl
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/2024-03-11+%283%29-2fd50b34.jpg
+  - gallery.html: https://irp.cdn-website.com/1e10ecc1/dms3rep/multi/opt/2024-03-11+%283%29-2fd50b34-1000w.jpg?jxl&amp;v=jxl
+- **PASS** No broken internal links: 0 broken
+- **PASS** Every desired service page present: 12 of 12 present
+- **PASS** Every form posts to /v1/lead: all rewired
+- **PASS** Gaps and phone warnings logged: 378 gaps, 1 phone warnings (see report/)
