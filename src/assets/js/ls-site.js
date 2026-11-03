@@ -27,8 +27,9 @@
     if (slides.length < 2) return;
     var autoplay = viewport.getAttribute('data-autoplay') === 'true';
     var speed = Math.max(1500, parseInt(viewport.getAttribute('data-speed') || '3000', 10) || 3000);
-    var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    var dotsWrap = null, timer = null, paused = false;
+    // Like the Duda (slick) carousels these replace, autoplay and the slide transition run whatever the visitor's
+    // reduced-motion setting is; hovering, touching or keyboard focus pauses autoplay.
+    var dotsWrap = null, timer = null, paused = false, anim = null;
 
     function perView() {
       var w = slides[0].getBoundingClientRect().width || 1;
@@ -39,10 +40,22 @@
       var w = slides[0].getBoundingClientRect().width || 1;
       return Math.round(track.scrollLeft / w);
     }
+    // The slide is animated here rather than with scrollTo({behavior: 'smooth'}), which browsers skip when smooth
+    // scrolling is turned off. Scroll snapping is suspended during the animation so it does not fight each frame.
     function go(i) {
       var n = pages();
       i = ((i % n) + n) % n;
-      track.scrollTo({ left: slides[i].offsetLeft - track.offsetLeft, behavior: reduced ? 'auto' : 'smooth' });
+      var from = track.scrollLeft, to = slides[i].offsetLeft - track.offsetLeft, start = null, ms = 450;
+      if (anim) cancelAnimationFrame(anim);
+      if (Math.abs(to - from) < 1) return;
+      track.style.scrollSnapType = 'none';
+      function frame(t) {
+        if (start === null) start = t;
+        var k = Math.min(1, (t - start) / ms), e = k < 0.5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2;
+        track.scrollLeft = from + (to - from) * e;
+        if (k < 1) { anim = requestAnimationFrame(frame); } else { anim = null; track.style.scrollSnapType = ''; renderDots(); }
+      }
+      anim = requestAnimationFrame(frame);
     }
     function button(cls, label, text, fn) {
       var b = document.createElement('button');
@@ -75,7 +88,7 @@
     function restart() {
       if (timer) clearInterval(timer);
       timer = null;
-      if (autoplay && !reduced) timer = setInterval(function () { if (!paused && !document.hidden) go(current() + 1); }, speed);
+      if (autoplay) timer = setInterval(function () { if (!paused && !document.hidden) go(current() + 1); }, speed);
     }
     // Autoplay pauses while the pointer is over the carousel or a keyboard user is in it. A mouse click on an arrow also
     // focuses it, so focus pauses only when it is keyboard focus; otherwise autoplay would stop for good after a click.
