@@ -21,8 +21,10 @@
 .lsw-reviews .lsw-prev { left: 0; } .lsw-reviews .lsw-next { right: 0; }
 .lsw-prev:focus-visible, .lsw-next:focus-visible, .lsw-dot:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
 .lsw-reviews .lsw-dots { display: flex; justify-content: center; gap: 8px; margin-top: 12px; }
-.lsw-reviews .lsw-dot { width: 10px; height: 10px; border-radius: 50%; border: 0; padding: 0; background: rgba(0, 0, 0, .25); cursor: pointer; }
-.lsw-reviews .lsw-dot[aria-current="true"] { background: rgba(0, 0, 0, .7); }
+/* Dots carry a light and a dark ring so they stay visible on any section background, light or dark. */
+.lsw-reviews .lsw-dot { width: 10px; height: 10px; border-radius: 50%; border: 0; padding: 0; cursor: pointer;
+  background: rgba(255, 255, 255, .75); box-shadow: 0 0 0 1px rgba(0, 0, 0, .35); }
+.lsw-reviews .lsw-dot[aria-current="true"] { background: #333; box-shadow: 0 0 0 2px rgba(255, 255, 255, .9); transform: scale(1.2); }
 /* Stars: Duda's `.star-rating i` rules set colour and size where its widget CSS is present; these are the fallback. */
 .lsw-reviews .star-rating .lsw-star { display: inline-flex; color: #F6BB06; font-size: 16px; margin-right: 2px; }
 .lsw-reviews .lsw-star svg { display: block; }
@@ -30,4 +32,3 @@
 .lsw-review-button { margin-left: 8px; }
 .lsw-map { min-height: 300px; }
 .lsw-map-embed { width: 100%; min-height: 300px; height: 100%; border: 0; }
-@media (prefers-reduced-motion: reduce) { .lsw-reviews .lsw-viewport .lsw-track { scroll-behavior: auto; } }
