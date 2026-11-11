@@ -16,7 +16,7 @@ Builds need only this repository. A rollback is a redeploy of an older commit.
 
 ```sh
 docker build -t site-3195317360 .
-docker run --rm -p 8080:80 -e LEADS_SERVICE_URL=http://website-lead-submit:8080 site-3195317360
+docker run --rm -p 8080:80 -e LEADS_SERVICE_URL=http://vibesite-lead-submit:8080 site-3195317360
 ```
 
 Or render without Docker: `pip install -r build/requirements.txt && python build/render.py` (output in `public/`).
